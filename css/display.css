@@ -1,0 +1,54 @@
+.view-list
+{
+  font-size: 15px;
+}
+.display-container
+{
+  width: 60%;
+  margin: auto;
+}
+/********* display.php table section *********/
+table, th, td
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 25rem;
+}
+th, td 
+{
+  padding: 5px;
+}
+th 
+{
+  text-align: left;
+}
+.logout-container
+{
+  margin-top: 3rem;
+}
+.logout a
+{
+  color: red;
+}
+img
+{
+  width: 4rem;
+  height: 4rem;
+  border: 2px solid lightblue;
+}
+a
+{
+  text-decoration: none;
+}
+
+/********* delete.php  section *********/
+
+.alert-error
+{
+  color: red;
+  font-size: 16px;
+}
+.alert-success
+{
+  color: green;
+}
